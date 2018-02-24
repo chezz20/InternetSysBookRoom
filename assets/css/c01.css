@@ -1,0 +1,139 @@
+body { 
+    font-family: "Courier New", Courier, monospace;
+    background: url("../img/salon.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+
+main{
+    /* margin-left: 50px; */
+    color: rebeccapurple;
+    background-color: white;
+    text-align: center;
+}
+
+
+form{
+    /* padding: 20px; */
+    color: #5a514c;
+    border: solid #5a514c 2px;
+    border-style: dashed;
+    margin-left: auto;
+    margin-right: auto;
+    width: 224px;
+    line-height: 1.1;
+}
+
+label, legend, button{
+    font-weight: 600;
+
+}
+
+legend{
+    background: #f1deda;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+
+fieldset{
+    text-align: center;
+    width: 220px;
+    /* border-style: groove;
+    border-radius: 30px 5px; */
+    background-color: #f1deda;
+    border: solid;
+}
+
+
+li a{
+    color: black;
+    background: white;
+}
+
+section{
+    /* height: 800px; */
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background: transparent;
+}
+
+nav{
+    /* width: 350px;
+    margin-top: 40px;
+    margin-left: 40px;
+    height: 435px; */
+    background-color: white;
+    background-repeat: no-repeat;
+    text-align: center;
+    border: solid #5a514c 2px;
+    border-style: dashed;
+    /* border-radius: 30px 5px;
+    color: #5a514c;
+    font-weight: 400; 
+    position: fixed; */
+}
+
+
+
+footer{
+
+    bottom: 0;
+    color: black;
+    padding-left: 40px;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.topup1{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    font-size: 30px;
+    background-color: #d8c9c0;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #5a514c;
+    border-color: black;
+}
+
+.container{
+    margin-top: 40px;
+}
+
+.gallery-con{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color:  #d8c9c0;
+    border: solid 2px black;
+    border-style: dashed;
+    margin-top: 15px;
+    padding: 5px;
+    box-shadow: 4px 4px black;
+}
+.formula{
+    width: 500px;
+    height: 500px;
+    background-color: #d8c9c0;
+    border: 2px solid black;
+    box-shadow: 4px 4px black;
+    border-style: dashed;
+}
+
+.formKontakt{
+    width: 350px;
+    padding: 5px;
+    line-height: 0.7;
+    border: solid 1px black;
+    border-style: dashed;
+}

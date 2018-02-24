@@ -1,0 +1,3 @@
+[0113/130555.238:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Google\Chrome\reports: Odmowa dostêpu. (0x5)
+[0209/212049.680:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Google\Chrome\reports: Odmowa dostêpu. (0x5)
+[0209/215040.204:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Google\Chrome\reports: Odmowa dostêpu. (0x5)
